@@ -1,0 +1,46 @@
+Problem statement 1:
+Find out how many people has chosen their destination as MIA and MCO
+INPUT
+ 
+PUT THE FILE
+ 
+CAT THE OUTPUT FILE
+ 
+MAPPER
+ 
+REDUCER 
+DRIVER
+ 
+
+
+Problem statement 2:
+Find out the number of people undertaken the trips from the places MIA and HOU
+
+MAPPER
+ 
+
+REDUCER
+ 
+DRIVER
+ 
+
+COMMANDS
+ 
+ 
+OUTPUT
+ 
+
+
+Problem statement 3:
+Find out how many people has chosen airline mode of travel for the places LAS and LAX
+MAPPER
+ 
+
+
+REDUCER
+ 
+DRIVER
+
+ OUTPUT
+
+ 
